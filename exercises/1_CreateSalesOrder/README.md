@@ -1,5 +1,7 @@
 ### Table of Contents
-- [This is Sagar](#project)
+<<<<<<< Updated upstream
+- [Create a business process projects](#project)
+- [Create a business process projects](#project)
 - [Create a business process](#process)
 - [Create an Data Type](#data)
 - [Create and Configure Approval form](#aprrovalform)
