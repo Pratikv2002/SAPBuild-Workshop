@@ -1,6 +1,6 @@
 
 ## Step 1
-## What data will you use   ?
+## What data will you use?
 
 SAP Build Apps can make API calls via destinations to backend services set up in SAP BTP. So you need to set up a destination to the ES5 gateway service.
 
